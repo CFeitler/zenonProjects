@@ -1,0 +1,9 @@
+C:\Users\christian.feitler\source\repos\TouchEventsGesture\bin\Debug\TouchEventsGesture.dll
+C:\Users\christian.feitler\source\repos\TouchEventsGesture\bin\Debug\TouchEventsGesture.pdb
+C:\Users\christian.feitler\source\repos\TouchEventsGesture\bin\Debug\TouchEventsGesture.scadaAddIn
+C:\Users\christian.feitler\source\repos\TouchEventsGesture\bin\Debug\Scada.AddIn.Contracts.xml
+C:\Users\christian.feitler\source\repos\TouchEventsGesture\obj\Debug\TouchEventsGesture.csproj.AssemblyReference.cache
+C:\Users\christian.feitler\source\repos\TouchEventsGesture\obj\Debug\TouchEventsGesture.csproj.CoreCompileInputs.cache
+C:\Users\christian.feitler\source\repos\TouchEventsGesture\obj\Debug\TouchEventsGesture.csproj.CopyComplete
+C:\Users\christian.feitler\source\repos\TouchEventsGesture\obj\Debug\TouchEventsGesture.dll
+C:\Users\christian.feitler\source\repos\TouchEventsGesture\obj\Debug\TouchEventsGesture.pdb

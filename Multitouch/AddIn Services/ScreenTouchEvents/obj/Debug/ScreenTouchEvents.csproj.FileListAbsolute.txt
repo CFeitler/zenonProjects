@@ -1,0 +1,9 @@
+C:\Users\christian.feitler\source\repos\ProjectServiceExtensions\ScreenTouchEvents\bin\Debug\ScreenTouchEvents.dll
+C:\Users\christian.feitler\source\repos\ProjectServiceExtensions\ScreenTouchEvents\bin\Debug\ScreenTouchEvents.pdb
+C:\Users\christian.feitler\source\repos\ProjectServiceExtensions\ScreenTouchEvents\bin\Debug\ScreenTouchEvents.scadaAddIn
+C:\Users\christian.feitler\source\repos\ProjectServiceExtensions\ScreenTouchEvents\bin\Debug\Scada.AddIn.Contracts.xml
+C:\Users\christian.feitler\source\repos\ProjectServiceExtensions\ScreenTouchEvents\obj\Debug\ScreenTouchEvents.csproj.AssemblyReference.cache
+C:\Users\christian.feitler\source\repos\ProjectServiceExtensions\ScreenTouchEvents\obj\Debug\ScreenTouchEvents.csproj.CoreCompileInputs.cache
+C:\Users\christian.feitler\source\repos\ProjectServiceExtensions\ScreenTouchEvents\obj\Debug\ScreenTouchEvents.csproj.CopyComplete
+C:\Users\christian.feitler\source\repos\ProjectServiceExtensions\ScreenTouchEvents\obj\Debug\ScreenTouchEvents.dll
+C:\Users\christian.feitler\source\repos\ProjectServiceExtensions\ScreenTouchEvents\obj\Debug\ScreenTouchEvents.pdb

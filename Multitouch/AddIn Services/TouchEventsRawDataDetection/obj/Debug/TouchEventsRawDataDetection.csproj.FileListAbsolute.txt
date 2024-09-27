@@ -1,0 +1,9 @@
+C:\Users\christian.feitler\source\repos\TouchEventsRawDataDetection\bin\Debug\TouchEventsRawDataDetection.dll
+C:\Users\christian.feitler\source\repos\TouchEventsRawDataDetection\bin\Debug\TouchEventsRawDataDetection.pdb
+C:\Users\christian.feitler\source\repos\TouchEventsRawDataDetection\bin\Debug\TouchEventsRawDataDetection.scadaAddIn
+C:\Users\christian.feitler\source\repos\TouchEventsRawDataDetection\bin\Debug\Scada.AddIn.Contracts.xml
+C:\Users\christian.feitler\source\repos\TouchEventsRawDataDetection\obj\Debug\TouchEventsRawDataDetection.csproj.AssemblyReference.cache
+C:\Users\christian.feitler\source\repos\TouchEventsRawDataDetection\obj\Debug\TouchEventsRawDataDetection.csproj.CoreCompileInputs.cache
+C:\Users\christian.feitler\source\repos\TouchEventsRawDataDetection\obj\Debug\TouchEventsRawDataDetection.csproj.CopyComplete
+C:\Users\christian.feitler\source\repos\TouchEventsRawDataDetection\obj\Debug\TouchEventsRawDataDetection.dll
+C:\Users\christian.feitler\source\repos\TouchEventsRawDataDetection\obj\Debug\TouchEventsRawDataDetection.pdb

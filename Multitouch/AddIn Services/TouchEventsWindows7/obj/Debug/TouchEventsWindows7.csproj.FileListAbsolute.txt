@@ -1,0 +1,9 @@
+C:\Users\christian.feitler\source\repos\TouchEventsWindows7\bin\Debug\TouchEventsWindows7.dll
+C:\Users\christian.feitler\source\repos\TouchEventsWindows7\bin\Debug\TouchEventsWindows7.pdb
+C:\Users\christian.feitler\source\repos\TouchEventsWindows7\bin\Debug\TouchEventsWindows7.scadaAddIn
+C:\Users\christian.feitler\source\repos\TouchEventsWindows7\bin\Debug\Scada.AddIn.Contracts.xml
+C:\Users\christian.feitler\source\repos\TouchEventsWindows7\obj\Debug\TouchEventsWindows7.csproj.AssemblyReference.cache
+C:\Users\christian.feitler\source\repos\TouchEventsWindows7\obj\Debug\TouchEventsWindows7.csproj.CoreCompileInputs.cache
+C:\Users\christian.feitler\source\repos\TouchEventsWindows7\obj\Debug\TouchEventsWindows7.csproj.CopyComplete
+C:\Users\christian.feitler\source\repos\TouchEventsWindows7\obj\Debug\TouchEventsWindows7.dll
+C:\Users\christian.feitler\source\repos\TouchEventsWindows7\obj\Debug\TouchEventsWindows7.pdb
