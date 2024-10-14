@@ -1,0 +1,9 @@
+C:\Users\christian.feitler\source\repos\CelCategories\ButtonClickToCel\bin\Debug\ButtonClickToCel.dll
+C:\Users\christian.feitler\source\repos\CelCategories\ButtonClickToCel\bin\Debug\ButtonClickToCel.pdb
+C:\Users\christian.feitler\source\repos\CelCategories\ButtonClickToCel\bin\Debug\ButtonClickToCel.scadaAddIn
+C:\Users\christian.feitler\source\repos\CelCategories\ButtonClickToCel\bin\Debug\Scada.AddIn.Contracts.xml
+C:\Users\christian.feitler\source\repos\CelCategories\ButtonClickToCel\obj\Debug\ButtonClickToCel.csproj.AssemblyReference.cache
+C:\Users\christian.feitler\source\repos\CelCategories\ButtonClickToCel\obj\Debug\ButtonClickToCel.csproj.CoreCompileInputs.cache
+C:\Users\christian.feitler\source\repos\CelCategories\ButtonClickToCel\obj\Debug\ButtonCl.4A07B38F.Up2Date
+C:\Users\christian.feitler\source\repos\CelCategories\ButtonClickToCel\obj\Debug\ButtonClickToCel.dll
+C:\Users\christian.feitler\source\repos\CelCategories\ButtonClickToCel\obj\Debug\ButtonClickToCel.pdb

@@ -1,0 +1,2 @@
+# CEL Entry on Button Click
+This is a small sample with a zenon project backup and some AddIn Service code. The AddIn Service reacts on Left-Button-Up events. If the event is triggered by an element from a subset a CEL message is displayed. The subset and the kind fo information can be configured.  
